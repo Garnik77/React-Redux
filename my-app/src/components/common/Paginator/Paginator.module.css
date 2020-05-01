@@ -1,0 +1,12 @@
+
+.pageNumber{
+    padding: 2px;
+    border: 1px solid grey;
+}
+.paginator{
+    margin: 10px;
+}
+.pageNumber.a{
+     color:blue;
+     font-weight: bold;
+ }
